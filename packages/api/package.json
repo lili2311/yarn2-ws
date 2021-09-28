@@ -1,0 +1,10 @@
+{
+  "name": "api",
+  "dependencies": {
+    "express": "4.0.0",
+    "lib": "*"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}

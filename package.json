@@ -1,0 +1,10 @@
+{
+  "name": "yarn2-ws",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "resolutions": {
+    "lib/express": "4.12.4"
+  }
+}

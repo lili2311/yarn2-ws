@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/jamesgill/.nvm/versions/node/v14.17.4/bin/node /Users/jamesgill/.nvm/versions/node/v14.17.4/bin/yarn set version 2.4.2
+
+PATH: 
+  /Users/jamesgill/.rvm/gems/ruby-2.7.2/bin:/Users/jamesgill/.rvm/gems/ruby-2.7.2@global/bin:/Users/jamesgill/.rvm/rubies/ruby-2.7.2/bin:/Users/jamesgill/google-cloud-sdk/bin:/usr/local/opt/libarchive/bin:/Users/jamesgill/.sdkman/candidates/java/current/bin:/Users/jamesgill/.nvm/versions/node/v14.17.4/bin:/Users/jamesgill/.poetry/bin:/Users/jamesgill/localBins:/Users/jamesgill/.cargo/bin:/Users/jamesgill/bin:/usr/local/bin:/Users/jamesgill/Library/Python/2.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/share/dotnet:~/.dotnet/tools:/Users/jamesgill/.cargo/bin:/Users/jamesgill/.rvm/bin:/Users/jamesgill/go/bin
+
+Yarn version: 
+  1.22.11
+
+Node version: 
+  14.17.4
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: Release not found: 2.4.2
+      at /Users/jamesgill/.nvm/versions/node/v14.17.4/lib/node_modules/yarn/lib/cli.js:90309:17
+      at Generator.next (<anonymous>)
+      at step (/Users/jamesgill/.nvm/versions/node/v14.17.4/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/jamesgill/.nvm/versions/node/v14.17.4/lib/node_modules/yarn/lib/cli.js:321:13
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
