@@ -1,10 +1,16 @@
 {
   "name": "api",
   "dependencies": {
-    "express": "4.0.0",
-    "lib": "*"
+    "express": "4.17.3",
+    "lib": "*",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "typescript": "^4.4.3"
-  }
+  },
+  "scripts": {
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
