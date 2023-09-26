@@ -1,7 +1,7 @@
 {
   "name": "api",
   "dependencies": {
-    "express": "4.0.0",
+    "express": "4.7.1",
     "lib": "*"
   },
   "devDependencies": {
